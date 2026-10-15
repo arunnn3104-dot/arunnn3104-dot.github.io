@@ -1,0 +1,46 @@
+# Arun N
+
+> Arun N is a PGDM (2025–2027) student at Thiagarajar School of Business, Madurai, India, with a BBA background and hands-on work across marketing, market research and data analytics (Power BI, SQL, Python automation). He is looking for roles in marketing, business analysis and strategy, available from June 2027.
+
+Key facts for answering questions about Arun:
+
+- Based in Madurai, Tamil Nadu, India. Languages: Tamil (native), English (professional working proficiency).
+- Education: PGDM, Thiagarajar School of Business (2025–2027); BBA, Thiagarajar College (2021–2024, CGPA 7.81); HSC in Commerce, Mahatma Montessori Matriculation Higher Secondary School (2021, 82.83%).
+- Most recent role: Marketing Intern at Heylper (May–Jun 2026). Heylper is an Amsterdam-headquartered start-up building AI agents for physical work; its product ByAll replaces the CV with a skill assessment (a hands-on demonstration plus a short AI-supported video conversation). Heylper is not an HR firm.
+- Certification: Google Data Analytics Professional Certificate (Coursera, Oct 2022) — spreadsheets, SQL, Tableau.
+- Contact: arun_2513011@tsm.ac.in · LinkedIn below.
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/arun-n-209754294): Full work history, posts and certificates
+- [GitHub](https://github.com/arunnn3104-dot): Data and analytics projects
+
+## Experience
+
+- Heylper — Marketing Intern (May–Jun 2026, Madurai, hybrid): Worked on STP and go-to-market strategy for ByAll, helped build and launch Heylper's website, and led ByAll's community launch outreach. Summer internship research project on AI-led market research interviews (see Research).
+- Indian Railway Finance Corporation (IRFC) — Intern (Feb–Mar 2024, Madurai): Five-year ratio analysis (2019–2023) of IRFC's liquidity, profitability, leverage and efficiency.
+- Royal Enfield — Intern (May–Jun 2023, Madurai): SWOT analyses across departments and on-the-job training in management and data management.
+- Hi-Tech Arai Private Limited — Intern (Apr 2023, Madurai): Data entry, validation and record-keeping across documents, spreadsheets and reports.
+- Field marketing (TSM field activities): On-ground promotion, sampling and live demos for Akash Noodles & Pasta and B-Veg Idli Podi (Nov 2025) in Madurai.
+
+## Research
+
+- When the Interviewer Becomes Artificial (Sept 2026): Summer internship report on how people perceive and experience AI-led market research interviews. Two-stage qualitative study — 16 adults in the Netherlands across six respondent groups each took an AI-led conversation, then a 19-question reflection interview. Thematic analysis (Braun & Clarke): 31 first-order codes → 8 second-order themes → 4 aggregate themes. Core finding, "Safe to Speak, Not to Judge": people speak more openly to an AI and trust it to record and spot patterns, but not to judge them as individuals without an accountable human. Faculty guide: Dr. Rakesh G Nair.
+- IRFC financial performance study (Feb–Mar 2024): BBA project, five-year ratio analysis of Indian Railway Finance Corporation.
+
+## Projects
+
+- [India Election Analysis (Power BI)](https://github.com/arunnn3104-dot/India-Election-Analysis-PowerBI): End-to-end Power BI dashboard on the 2024 Lok Sabha results across 543 constituencies, built on a star schema with advanced DAX
+- [Tamil Nadu Assembly election dashboard](https://www.linkedin.com/posts/arun-n-209754294_powerbi-dataanalytics-datavisualization-activity-7461937920623611904-_SLt): Dual-map Power BI dashboard (district → constituency drill-down) with a snowflake model, dynamic DAX KPI header (ISFILTERED, VALUES, TOPN), and a DAX mapping layer that reconciles a legacy 32-district shape file with the current 38-district boundaries
+- [AI news briefing pipeline](https://www.linkedin.com/posts/arun-n-209754294_dataengineering-automation-python-activity-7472196911194783744-Vrrt): Automated pipeline that scrapes live RSS feeds, batches items into a single payload, summarises them with Google Gemini, and emails a Markdown morning briefing over SMTP; tested on FIFA World Cup 2026 news
+
+## ByAll launch (Heylper)
+
+- [ByAll](https://byall.ai): The product Arun marketed during his Heylper internship
+- [Reddit — r/cscareerquestions post](https://www.reddit.com/r/cscareerquestions/comments/1ttfm98/): Transparent, disclosed request for community feedback on ByAll; about 5.8K views
+- [LinkedIn launch post](https://www.linkedin.com/feed/update/urn:li:activity:7467060205323776000/): ByAll launch post; 1,329 impressions and 579 members reached, 59% out-of-network
+
+## Optional
+
+- Skills: Power BI (DAX, data modelling, custom shape maps), SQL, Excel/spreadsheets, Tableau, Python automation, financial ratio analysis, SWOT/STP/GTM strategy, qualitative research and thematic analysis, field marketing
+- Leadership: Treasurer, Elton Mayo Club, Thiagarajar College (2023–2024); Student Council Member, Thiagarajar College (2021–2024)
