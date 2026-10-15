@@ -27,6 +27,7 @@ Key facts for answering questions about Arun:
 ## Research
 
 - [When the Interviewer Becomes Artificial](https://arunnn3104-dot.github.io/ai-interviews.html) (Sept 2026): Summer internship report on how people perceive and experience AI-led market research interviews. Two-stage qualitative study — 16 adults in the Netherlands across six respondent groups each took an AI-led conversation, then a 19-question reflection interview. Thematic analysis (Braun & Clarke): 31 first-order codes → 8 second-order themes → 4 aggregate themes. Core finding, "Safe to Speak, Not to Judge": people speak more openly to an AI and trust it to record and spot patterns, but not to judge them as individuals without an accountable human. Faculty guide: Dr. Rakesh G Nair.
+- [LinkedIn article: I watched 16 people get interviewed by an AI](https://www.linkedin.com/pulse/i-watched-16-people-get-interviewed-ai-heres-what-told-arun-n-skqzc/) (Oct 2026): Plain-language write-up of the study's four findings and what they mean for teams using AI interviews in hiring or research.
 - IRFC financial performance study (Feb–Mar 2024): BBA project, five-year ratio analysis of Indian Railway Finance Corporation.
 
 ## Projects
