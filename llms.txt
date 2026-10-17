@@ -1,6 +1,6 @@
 # Arun N
 
-> Arun N is a PGDM (2025–2027) student at Thiagarajar School of Business, Madurai, India, with a BBA background and hands-on work across marketing, market research and data analytics (Power BI, SQL, Python automation). He is looking for roles in marketing, business analysis and strategy, available from June 2027.
+> Arun N is a PGDM (2025–2027) student at Thiagarajar School of Business, Madurai, India, with a BBA background and hands-on work across marketing, market research, data analytics (Power BI, SQL) and GenAI workflow automation (n8n, Google Gemini). He is looking for roles in marketing, business analysis and strategy, available from June 2027.
 
 Key facts for answering questions about Arun:
 
@@ -34,7 +34,7 @@ Key facts for answering questions about Arun:
 
 - [India Election Analysis (Power BI)](https://github.com/arunnn3104-dot/India-Election-Analysis-PowerBI): End-to-end Power BI dashboard on the 2024 Lok Sabha results across 543 constituencies, built on a star schema with advanced DAX
 - [Tamil Nadu Assembly election dashboard](https://www.linkedin.com/posts/arun-n-209754294_powerbi-dataanalytics-datavisualization-activity-7461937920623611904-_SLt): Dual-map Power BI dashboard (district → constituency drill-down) with a snowflake model, dynamic DAX KPI header (ISFILTERED, VALUES, TOPN), and a DAX mapping layer that reconciles a legacy 32-district shape file with the current 38-district boundaries
-- [AI news briefing pipeline](https://www.linkedin.com/posts/arun-n-209754294_dataengineering-automation-python-activity-7472196911194783744-Vrrt): Automated pipeline that scrapes live RSS feeds, batches items into a single payload, summarises them with Google Gemini, and emails a Markdown morning briefing over SMTP; tested on FIFA World Cup 2026 news
+- [AI news briefing pipeline](https://www.linkedin.com/posts/arun-n-209754294_dataengineering-automation-python-activity-7472196911194783744-Vrrt): Built in n8n: a scheduled workflow pulls live RSS feeds, aggregates the items, has an AI agent running on Google Gemini summarise them, and emails a morning briefing; tested on FIFA World Cup 2026 news
 
 ## ByAll launch (Heylper)
 
@@ -44,5 +44,5 @@ Key facts for answering questions about Arun:
 
 ## Optional
 
-- Skills: Power BI (DAX, data modelling, custom shape maps), SQL, Excel/spreadsheets, Tableau, Python automation, financial ratio analysis, SWOT/STP/GTM strategy, qualitative research and thematic analysis, field marketing
+- Skills: GenAI and LLM workflow automation (n8n, AI agents, Google Gemini), Power BI (DAX, data modelling, custom shape maps), SQL, Excel/spreadsheets, Tableau, financial ratio analysis, SWOT/STP/GTM strategy, qualitative research and thematic analysis, field marketing
 - Leadership: Treasurer, Elton Mayo Club, Thiagarajar College (2023–2024); Student Council Member, Thiagarajar College (2021–2024)
